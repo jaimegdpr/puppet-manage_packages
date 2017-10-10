@@ -1,1 +1,1 @@
-# puppet-packages_mgmt
+# puppet-packages
